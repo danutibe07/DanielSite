@@ -1,0 +1,32 @@
+.contacts{
+    cursor: pointer;
+    margin-top: 49px;
+    color: rebeccapurple;
+}
+.contact{
+    padding: 10%;
+}
+h2{
+    margin-top: -40px ;
+    position: relative;
+    margin-left: 120px;
+    color: rebeccapurple;
+}
+h3{
+    margin-left: 120px;
+    color: rebeccapurple;
+    padding: 20px;
+}
+.footer h3{
+    margin: 0;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 2em;
+    margin-left: 200px;
+}
+.footer{
+    left: 0;
+    height: 70px;
+    position: fixed;
+    bottom: 0;
+}

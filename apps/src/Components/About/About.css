@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.band-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
+    color: white;
+    background-color: rebeccapurple;
+}
+.content{
+    align-items: center;
+    justify-content: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 70px;
+}
+.band-name-large {
+    font-size: 10em;
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+ .section-header {
+    color: rebeccapurple;
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 10px;
+    font-family: "Booter - Zero Zero";
+    margin-right: 30px;
+} 
+.content p{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+.footer {
+    background-color: rebeccapurple;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.main-footer-container {
+    display: flex;
+    align-items: center;
+    background-color: rebeccapurple;
+}
+
+.footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+}
+
+
