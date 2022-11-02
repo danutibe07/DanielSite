@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DanielSite/static/css/main.9496f5f8.css",
+    "main.js": "/DanielSite/static/js/main.36eeaa04.js",
+    "static/media/profile.jpg": "/DanielSite/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/about.jpg": "/DanielSite/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/John-Cv.pdf": "/DanielSite/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "static/media/hand.svg": "/DanielSite/static/media/hand.330b49cc7cd3bedaa20e738eb0d42fc1.svg",
+    "index.html": "/DanielSite/index.html",
+    "main.9496f5f8.css.map": "/DanielSite/static/css/main.9496f5f8.css.map",
+    "main.36eeaa04.js.map": "/DanielSite/static/js/main.36eeaa04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9496f5f8.css",
+    "static/js/main.36eeaa04.js"
+  ]
+}
