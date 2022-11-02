@@ -50,7 +50,8 @@
         bottom: 0;
     }
     .nav{
-        height: var(--header--height);
+        /* height: var(--header-height); */
+        height: 5rem;
     }
     .nav__menu{
         position: fixed;
