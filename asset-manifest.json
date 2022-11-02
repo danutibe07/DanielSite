@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DanielSite/static/css/main.9496f5f8.css",
-    "main.js": "/DanielSite/static/js/main.7b60da62.js",
-    "static/media/profile.jpg": "/DanielSite/static/media/profile.01418214281c985a42bb.jpg",
-    "static/media/about.jpg": "/DanielSite/static/media/about.25037666cca34f8f569a.jpg",
+    "main.css": "/DanielSite/static/css/main.bfd1f94e.css",
+    "main.js": "/DanielSite/static/js/main.7cb9f92d.js",
+    "static/media/profile.jpg": "/DanielSite/static/media/profile.535a1460ca2b4b2cf606.jpg",
+    "static/media/about.jpg": "/DanielSite/static/media/about.d977129aa4c6ce3b1b8a.jpg",
     "static/media/John-Cv.pdf": "/DanielSite/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
     "static/media/hand.svg": "/DanielSite/static/media/hand.330b49cc7cd3bedaa20e738eb0d42fc1.svg",
     "index.html": "/DanielSite/index.html",
-    "main.9496f5f8.css.map": "/DanielSite/static/css/main.9496f5f8.css.map",
-    "main.7b60da62.js.map": "/DanielSite/static/js/main.7b60da62.js.map"
+    "main.bfd1f94e.css.map": "/DanielSite/static/css/main.bfd1f94e.css.map",
+    "main.7cb9f92d.js.map": "/DanielSite/static/js/main.7cb9f92d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9496f5f8.css",
-    "static/js/main.7b60da62.js"
+    "static/css/main.bfd1f94e.css",
+    "static/js/main.7cb9f92d.js"
   ]
 }
