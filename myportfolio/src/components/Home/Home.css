@@ -61,6 +61,10 @@
     height: 300px;
     width: 300px;
     animation: animate-picture 8s ease-in-out infinite 1s;
+    filter: grayscale(1);
+}
+.home__img:hover{
+    filter: grayscale(0);
 }
 
 @keyframes animate-picture {

@@ -8,7 +8,7 @@ const Qualification = () => {
 
             <div className="qualification__container container">
                 <div className="qualification__tabs">
-                    <div className="qualification__button butto-flex">
+                    <div className="qualification__button qualification__active button-flex">
                         <i className="uil uil-graduation-cap qualification__icon"></i>
                         Education
                     </div>
@@ -18,21 +18,21 @@ const Qualification = () => {
                     </div>
                 </div>
                 <div className="qualification__sections">
-                    <div className="qualification__content">
-                        <div className="qualification__data">
-                            <div></div>
-                            <div>
-                                <span className="qulaification__rounder"></span>
-                                <span className="qualification__line"></span>
+                    <div className="qualification__content qualification__content-active">
+                    <div className="qualification__data">
+                            <h3 className="qualification__title">Computer Engineering</h3>
+                            <span className="qualification__subtitle">University of Uyo, Uyo</span>
+                            <div className="qualification__calender">
+                                <i className="uil uil-calender-alt"></i> october 2017 till Date
                             </div>
-                            <h3 className="qualification__title">Web Developer</h3>
+                        </div>
+                        <div className="qualification__data">
+                            <h3 className="qualification__title">Web Development</h3>
                             <span className="qualification__subtitle">New Horizon</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calender-alt"></i> Febuary 2022 - April 2022
                             </div>
-                          
                         </div>
-
                         <div className="qualification__data">
                             <div></div>
                             <div>
